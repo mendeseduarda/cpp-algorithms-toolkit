@@ -1,2 +1,11 @@
 # cpp-algorithms-toolkit
-A C++ toolkit focused on algorithms, data structures, and reusable utilities for studying and competitive programming practice.
+
+A simple C++ library containing algorithms, data structures, and utility functions.
+
+## Goals
+
+- Practice competitive programming
+- Improve C++ programming skills
+- Study algorithms and data structures
+- Create reusable implementations
+- Learn more about performance and memory management
